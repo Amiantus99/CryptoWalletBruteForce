@@ -1,4 +1,4 @@
-# Crypto Wallet-Bruteforcer
+# Crypto Wallet-Bruteforcer PRO
 
 Download the last Release
 
